@@ -1,0 +1,62 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#contenedor{
+	width: 1500px;
+	height: 738px;
+	background: #F06292;
+	margin: 0.5em auto;
+}
+#botones{
+	background: #66CCCC;
+	padding: 1%;
+	height: 100%;
+	width: 15%;
+	float: left;
+}
+#contenido{
+	background: #F06292;
+	height: 100%;
+	width: 85%;
+	float: right;
+	color: #000000;
+}
+#botones2{
+	background: #ec407a;
+	padding: 1%;
+	height: 9%;
+	width: 100%;
+}
+
+#tabla{
+	width: 90%;
+	margin: 0.5em auto;
+}
+#arriba{
+	height: 80%;
+}
+#abajo{
+	height: 20%;
+}
+#parta{
+	width: 50%;
+	float: left;
+}
+#partb{
+	width: 50%;
+	float: right;
+}
+#input{
+	width: 70%;
+	margin: 0.5em auto;
+}
+table th {
+    background: #66CCCC;
+    color: grey;
+}
+
+table td {
+    background: white;
+    color: black;
+}

@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#contenedor{
+	width: 1500px;
+	height: 738px;
+	background: #F06292;
+	margin: 0.5em auto;
+	border-radius: 1em;
+}
+#borde{
+	width: 440px;
+	height: 638px;
+	background: #FFFFFF;
+	margin: 0.5em auto;
+	border-radius: 1em;
+}
+#formulario{
+	width: 400px;
+	height: 638px;
+	background: #66CCCC;
+	margin: 0.5em auto;
+	color: #FFFFFF;
+}
+#input{
+	width: 300px;
+	height: 50px;
+	margin: 0.5em auto;
+}
