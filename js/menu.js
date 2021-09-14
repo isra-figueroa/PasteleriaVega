@@ -10,7 +10,7 @@ function colocarName(){
 	var arrayDeCadenas = txt.split("-");
 	var btn = document.getElementById("menu");
 	btn.innerHTML = "<i class='fa fa-heart'></i> "+arrayDeCadenas[0].replaceAll('_', ' ');
-	if(arrayDeCadenas[1]=="Cajero"){
+	if(arrayDeCadenas[1]=="Recepcionista"){
 	var btn1 = document.getElementById("usuarios");
 	var btn2 = document.getElementById("catalogo");
 	var btn3 = document.getElementById("registros");
